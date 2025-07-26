@@ -36,65 +36,52 @@
 ---
 
 ## 💻 Tech Stack
-<style>
-  .tech-icon {
-    width: 48px;         /* slightly bigger */
-    margin: 0 15px;      /* horizontal spacing */
-    vertical-align: middle;
-  }
-  .tech-row {
-    text-align: center;
-    margin-bottom: 40px; /* vertical spacing between groups */
-  }
-</style>
 
 <h4 align="center">👨‍💻 Programming Languages</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" style="width:44px; margin:0 12px; vertical-align:middle;"/>
 </p>
 
 <h4 align="center">⚙️ Frameworks & Libraries</h4>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" alt="Arduino"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" alt="Selenium"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width:44px; margin:0 12px; vertical-align:middle;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="width:44px; margin:0 12px; vertical-align:middle;"/>
 </p>
 
 <h4 align="center">🔧 Tools & Platforms</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" alt="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" style="width:44px; margin:0 12px; vertical-align:middle;"/>
 </p>
 
 <h4 align="center">🎨 UI/UX & Design</h4>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" alt="Photoshop"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" style="width:44px; margin:0 12px; vertical-align:middle;"/>
 </p>
 
 <h4 align="center">🛢️ Databases</h4>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" alt="SQLite"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" style="width:44px; margin:0 12px; vertical-align:middle;"/>
 </p>
 
 <h4 align="center">🧪 Other Toolkits</h4>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" alt="Qt"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" width="40" alt="GTK"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f/icons/svg/brand/unreal-engine.svg" width="40" alt="Unreal Engine"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="GTK" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" style="width:44px; margin:0 12px; vertical-align:middle;"/>
 </p>
 
 ---
