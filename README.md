@@ -48,7 +48,7 @@
   transition: transform 0.3s ease;
 }
 .tech-icon:hover {
-  transform: scale(1.2);
+  transform: scale(1);
   animation-play-state: paused;
 }
 .tech-row {
