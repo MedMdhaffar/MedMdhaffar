@@ -39,7 +39,7 @@
 
 <h4 align="center">👨‍💻 Programming Languages</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:44px; margin:0 20px; vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:44px; margin:0 12px; vertical-align:middle;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width:44px; margin:0 12px; vertical-align:middle;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:44px; margin:0 12px; vertical-align:middle;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:44px; margin:0 12px; vertical-align:middle;"/>
