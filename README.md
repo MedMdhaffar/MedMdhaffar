@@ -42,7 +42,7 @@
 }
 
 .tech-icon {
-  width: 48px;
+  width: 40px;
   margin: 0 12px;
   animation: pulse 3s infinite;
   transition: transform 0.3s ease;
