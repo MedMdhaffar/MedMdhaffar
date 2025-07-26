@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/mohamed.medhaffar.5?locale=fr_FR**
 
-- ⚡ Fun fact **I think I’m funny... and sometimes my code thinks otherwise!**
-
+- ⚡I speak 4 languages: English, French, Python, and... sarcasm. 🐍
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
