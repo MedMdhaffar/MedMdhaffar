@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mdhaffar</h1>
-<h3 align="center">ICT Engineering Student at SUP'COM | Building Intelligent Solutions with AI & Machine Learning</h3>
+<h1 align="center">Hi there 👋, I'm Mohamed Mdhaffar</h1>
+<h3 align="center">🎓 ICT Engineering Student @ SUP'COM</h3>
+<h4 align="center">🤖 AI Explorer | 🧩 Problem Solver | 🌍 Building Meaningful Tech</h4>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medmdhaffar" alt="medmdhaffar" /></a> </p>
 
