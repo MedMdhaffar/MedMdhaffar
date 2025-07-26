@@ -48,7 +48,7 @@
   transition: transform 0.3s ease;
 }
 .tech-icon:hover {
-  transform: scale(1);
+  transform: scale(1.2);
   animation-play-state: paused;
 }
 .tech-row {
@@ -107,7 +107,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" class="tech-icon" alt="GTK"/>
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" class="tech-icon" alt="Unreal Engine"/>
 </p>
-
 
 ## 📊 GitHub Stats
 
