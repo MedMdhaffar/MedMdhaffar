@@ -15,8 +15,6 @@
 
 ### 🚀 About Me
 
-- 🔭 Working on **[Dione Project](https://github.com/zaydbf/Dione)** – AI-powered emissions monitoring 🌍  
-- 🌱 Learning Machine Learning through **Stanford's CS229**  
 - 📫 Contact me on [Facebook](https://www.facebook.com/mohamed.medhaffar.5?locale=fr_FR) or [LinkedIn](https://www.linkedin.com/in/mohamed-mdhafar-08707b280)  
 - ⚡ **Fun fact:** I speak 4 languages – English, French, Python, and... sarcasm 😎  
 
