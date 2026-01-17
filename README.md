@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Mdhaffar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎓+ICT+Engineering+Student+@+SUP'COM;🤖+AI+Explorer+%7C+🧩+Problem+Solver+%7C+🌍+Tech+for+Impact&center=true&width=500&height=40&color=0FF6EC&vCenter=true&size=20" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there 👋, I'm Mohamed Mdhaffar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎓+ICT+Engineering+Student+@+SUP'COM;🤖+AI+Explorer+%7C+🧩+Problem+Solver+%7C+🌍+Tech+for+Impact;✨+Quantitative+magician,+conjuring+valuable+knowledge+from+data+spells.&center=true&width=600&height=40&color=0FF6EC&vCenter=true&size=20" alt="Typing SVG" />
+</p></p>
 
 ---
 <p align="center">
