@@ -1,18 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Mdhaffar</h1>
 <p align="center">
-<h1 align="center">Hi there 👋, I'm Mohamed Mdhaffar</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎓+ICT+Engineering+Student+@+SUP'COM;🤖+AI+Explorer+%7C+🧩+Problem+Solver+%7C+🌍+Tech+for+Impact;✨+Quantitative+magician,+conjuring+valuable+knowledge+from+data+spells.&center=true&width=600&height=40&color=0FF6EC&vCenter=true&size=20" alt="Typing SVG" />
-</p></p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎓+ICT+Engineering+Student+@+SUP'COM;🤖+AI+Explorer+%7C+🧩+Problem+Solver+%7C+🌍+Tech+for+Impact;✨+Quantitative+magician,+conjuring+valuable+knowledge+from+data+spells.&center=true&width=800&height=40&color=0FF6EC&vCenter=true&size=20" alt="Typing SVG" />
+</p>
 
 ---
+
 <p align="center">
-
   <a href="https://github.com/medmdhaffar">
-    <img src="https://github-profile-trophy.vercel.app/?username=medmdhaffar&theme=algolia&margin-w=10&margin-h=15&column=4" alt="medmdhaffar trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=medmdhaffar&theme=algolia&column=4" alt="medmdhaffar trophies"/>
   </a>
-
 </p>
+
 ---
 
 ### 🚀 About Me
