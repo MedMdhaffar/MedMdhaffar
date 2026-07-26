@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 📫 Contact me on [Facebook](https://www.facebook.com/mohamed.medhaffar.5?locale=fr_FR) or [LinkedIn](https://www.linkedin.com/in/mohamed-mdhafar-08707b280)  
+- ⚡ I am an ML Systems & Computer Vision Engineer (ICT Engineering Student @ SUP’COM) bridging the gap between rigorous AI theory and aggressive hardware optimization. My love languages are C++, PyTorch, and eliminating CUDA overhead. I treat the GPU Mode YouTube channel like premium television, and I have a deep, emotional attachment to extracting every last TFLOP out of silicon.
 - ⚡ **Fun fact:** I speak 4 languages – English, French, Python, and... sarcasm 😎  
 
 ---
