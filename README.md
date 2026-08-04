@@ -1,3 +1,7 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/e4ad7053-9762-4baf-9979-839faab9b535" />
+
+
+
 <h1 align="center">Hi there 👋, I'm Mohamed Mdhaffar</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🎓+ICT+Engineering+Student+@+SUP'COM;🤖+AI+Explorer+%7C+🧩+Problem+Solver+%7C+🌍+Tech+for+Impact;✨+Quantitative+magician,+conjuring+valuable+knowledge+from+data+spells.&center=true&width=800&height=40&color=0FF6EC&vCenter=true&size=20" alt="Typing SVG" />
