@@ -1,101 +1,132 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/e4ad7053-9762-4baf-9979-839faab9b535" />
-
-
-
-<h1 align="center">Hi there 👋, I'm Mohamed Mdhaffar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎓+ICT+Engineering+Student+@+SUP'COM;🤖+AI+Explorer+%7C+🧩+Problem+Solver+%7C+🌍+Tech+for+Impact;✨+Quantitative+magician,+conjuring+valuable+knowledge+from+data+spells.&center=true&width=800&height=40&color=0FF6EC&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,45:7C3AED,100:06B6D4&amp;height=180&amp;section=header&amp;text=Mohamed%20Mdhaffar&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=AI%20that%20sees%2C%20reasons%2C%20and%20runs%20fast&amp;descAlignY=58&amp;descSize=17" alt="Mohamed Mdhaffar" />
 </p>
 
----
-
 <p align="center">
-  <a href="https://github.com/medmdhaffar">
-    <img src="https://github-profile-trophy.vercel.app/?username=medmdhaffar&theme=algolia&column=4" alt="medmdhaffar trophies"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%E2%9C%A8+Quantitative+magician%2C+conjuring+valuable+knowledge+from+data+spells.&amp;center=true&amp;width=800&amp;height=40&amp;color=06B6D4&amp;vCenter=true&amp;size=18" alt="Quantitative magician, conjuring valuable knowledge from data spells." />
 </p>
 
----
-
-### 🚀 About Me
-
-- ⚡ I am an ML Systems & Computer Vision Engineer (ICT Engineering Student @ SUP’COM) bridging the gap between rigorous AI theory and aggressive hardware optimization. My love languages are C++, PyTorch, and eliminating CUDA overhead. I treat the GPU Mode YouTube channel like premium television, and I have a deep, emotional attachment to extracting every last TFLOP out of silicon.
-- ⚡ **Fun fact:** I speak 4 languages – English, French, Python, and... sarcasm 😎  
-
----
-
-### 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mdhafar-08707b280" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/medmdhaffar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mohamed-mdhafar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohamed.mdhaffar@supcom.tn"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/MedMdhaffar?tab=repositories"><img src="https://img.shields.io/badge/Projects-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
 </p>
 
----
+<br/>
 
-## 💻 Tech Stack
+## 🧠 About
 
-<h4 align="center">👨‍💻 Programming Languages</h4>
+ICT engineering student at **SUP'COM** building at the intersection of **computer vision**, **AI agents**, and **high-performance systems**. I care about the complete AI stack—from model design and reasoning pipelines to CUDA kernels and deployment on constrained or accelerated hardware.
+
+```yaml
+focus:
+  - computer vision & multimodal AI
+  - GPU acceleration & efficient inference
+  - agentic systems & edge AI
+currently:     Final-year ICT Engineering Student @ SUP'COM
+open_to:       2027 end-of-studies internship abroad
+```
+
+<br/>
+
+## 🛠️ Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,matlab&amp;theme=dark" alt="Programming languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&amp;theme=dark" alt="AI and machine learning" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,django,fastapi,postgres&amp;theme=dark" alt="Software and data" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,arduino&amp;theme=dark" alt="Platforms and tools" />
 </p>
 
-<h4 align="center">⚙️ Frameworks & Libraries</h4>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width:44px; margin:0 12px; vertical-align:middle;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <sub>
+    <b>GPU &amp; vision</b> CUDA C++ · Triton · Numba · YOLO · FaceNet · InternVL &nbsp;•&nbsp;
+    <b>Agents</b> LangGraph · LangChain · LangSmith · MCP &nbsp;•&nbsp;
+    <b>Edge &amp; IoT</b> STM32 · ESP32 · Raspberry Pi · LoRaWAN · MQTT
+  </sub>
 </p>
 
-<h4 align="center">🔧 Tools & Platforms</h4>
+<details>
+<summary align="center"><sub>also comfortable with — optimization, imaging &amp; deployment</sub></summary>
+<p align="center"><br/>
+  PyTorch Profiler · Perfetto · ADMM · Deep Image Prior · Qdrant · GStreamer · Firebase · Tailwind CSS
+</p>
+</details>
+
+<br/>
+
+## 📌 Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ [GPU-Accelerated Deep Image Prior](https://github.com/Khalifa-Bouneb/Compressed-Sensing-with-Deep-Image-Prior-for-Chest-CT-Signal-Denoising)
+Image denoising with DIP, ADMM, TV/WTV regularization, and native PyTorch C++/CUDA operators—reaching a **9.52×** periodic-gradient speedup on an NVIDIA A100.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛰️ [TSYP13 — Predictive Maintenance](https://github.com/MedMdhaffar/TSYP13)
+Onboard anomaly detection and sensor-value recovery for CubeSat attitude-control telemetry, with approximately **2 ms** embedded ANN latency.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Edge AI](https://img.shields.io/badge/Edge_AI-0F766E?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 👁️ [ForensicsSystem](https://github.com/MedMdhaffar/ForensicsSystem)
+GPU-accelerated video intelligence combining detection, tracking, face-to-body association, identification, and multimodal analysis.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 [AI Search Agent](https://github.com/MedMdhaffar/AISearchAgent)
+Natural-language surveillance analytics over PostgreSQL with LangGraph, multi-turn memory, confidence scoring, and SQL safety controls.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Highlights
+
+🥇 **GAIAthon 2025 — African Champion** · CarbonSens environmental intelligence platform combining Earth observation, IoT, AI, and web technologies<br/>
+🥈 **TSYP13 — 2nd Place** · AI-driven predictive maintenance for OPS-SAT ADCS<br/>
+🥉 **AI Odyssey Hackathon — 3rd Place** · TrendWave AI prototype<br/>
+🎓 **Top 5% nationally** · Ranked 74th of 1,750 candidates in Tunisia's engineering entrance exam
+
+<br/>
+
+## 📊 Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img width="62%" src="./metrics.svg" alt="GitHub metrics" />
 </p>
 
-<h4 align="center">🎨 UI/UX & Design</h4>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <img width="62%" src="./metrics.habits.svg" alt="Coding habits" />
 </p>
 
-<h4 align="center">🛢️ Databases</h4>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <a href="https://github.com/MedMdhaffar?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMedMdhaffar&amp;query=%24.public_repos&amp;label=repositories&amp;style=flat-square&amp;color=7C3AED&amp;logo=github" alt="Repositories" /></a>
+  <a href="https://github.com/MedMdhaffar?tab=followers"><img src="https://img.shields.io/github/followers/MedMdhaffar?style=flat-square&amp;color=06B6D4&amp;logo=github&amp;label=followers" alt="Followers" /></a>
+  <a href="https://github.com/MedMdhaffar?tab=stars"><img src="https://img.shields.io/github/stars/MedMdhaffar?style=flat-square&amp;color=334155&amp;logo=github&amp;label=stars" alt="Stars" /></a>
 </p>
 
-<h4 align="center">🧪 Other Toolkits</h4>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="GTK" style="width:44px; margin:0 12px; vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" style="width:44px; margin:0 12px; vertical-align:middle;"/>
+  <sub>Based in Tunis, Tunisia · Open to opportunities worldwide</sub>
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medmdhaffar&show_icons=true&theme=tokyonight" height="180px" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medmdhaffar&theme=tokyonight" height="180px" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmdhaffar&layout=compact&theme=tokyonight" height="180px" alt="Top Languages"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,55:7C3AED,100:0F172A&amp;height=110&amp;section=footer" alt="Footer" />
 </p>
